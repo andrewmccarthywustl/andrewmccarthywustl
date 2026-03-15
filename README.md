@@ -1,4 +1,4 @@
-<img src="banner.svg" width="100%" />
+<img src="banner-blue.svg" width="100%" />
 
 # Andrew McCarthy
 
