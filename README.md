@@ -1,1 +1,1 @@
-<img src="sisyphus.svg" width="100%" />                                                                                             
+<img src="sisyphus_.svg" width="100%" />                                                                                             
