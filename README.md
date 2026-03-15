@@ -1,3 +1,5 @@
+<img src="banner.svg" width="100%" />
+
 # Andrew McCarthy
 
 I am a senior at WashU majoring in Finance and Mathematics+CS.
